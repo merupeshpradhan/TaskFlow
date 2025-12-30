@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This Backend for To-Do list",
+  "description": "This Backend for TaskFlow",
   "license": "ISC",
   "author": "Rupesh Pradhan",
   "type": "module",
